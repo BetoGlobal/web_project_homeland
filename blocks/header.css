@@ -21,7 +21,7 @@ align-items: center;
 }
 
 .header__title {
-max-width: 720%;
+max-width: 720px;
 margin: 0 auto;
 font-family: "Inter-Black", sans-serif;
 font-size: 97px;
