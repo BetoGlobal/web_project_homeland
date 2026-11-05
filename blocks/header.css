@@ -55,22 +55,16 @@ margin: auto;
         max-width: 190px;
         padding-bottom: 50px;
     }
-        .header__title {
-            max-width: 220px;
-            font-size: 40px;
-            line-height: 1;
-}
-        .header__title {
-            max-width: 220px;
-            font-size: 40px;
-            line-height: 1;
-}
+    .header__title {
+        max-width: 220px;
+        font-size: 40px;
+        line-height: 1; 
+    }   
+
+    .header__subtitle {
+        max-width: 290px;
+    }
     
-}
-
-.header__subtitle {
-    max-width: 290px;
-
 }
 
 @media screen and (min-width: 545px) and (max-width: 1024px) {
